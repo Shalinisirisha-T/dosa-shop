@@ -4,11 +4,20 @@
 * Dosa batter
 * Light oil
 
-# Karam Dosa
+## Karam Dosa
 * Dosa batter
 * oil
 * Erra karam
 
-# Egg Dosa
+## Egg Dosa
 * Dosa batter
-* 2 eggs and karam
+* 1/2 egg
+* oil and karam
+
+## panneer dosa
+* Dosa batter
+* panneer
+* carrot and beetroot
+* cheese and butter
+* tomato and keer
+* mysore masala
